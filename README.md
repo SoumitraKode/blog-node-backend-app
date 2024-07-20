@@ -23,18 +23,15 @@ This is a backend application for a blogging platform. It provides functionaliti
 - `getAllPost(req, res)`: Retrieves all posts.
 
 ## Installation
-1. To install the dependencies, run:
-    ```bash
-    npm install
-2.   Install dependencies
+1.   Install dependencies
         Using npm:
      ```bash
      npm install
-3. Set up environment variables
+2. Set up environment variables
     ```bash
     MONGO_URL=mongodb://localhost:27017/blogs-app
     PORT=3000
-4. Start the Server:
+3. Start the Server:
     ```bash
     npm start
 
